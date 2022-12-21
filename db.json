@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "Stephanie Hilll",
+      "id": 2
+    },
+    {
+      "name": "Ms. Brad Herman",
+      "id": 4
+    },
+    {
+      "name": "Jill Bayer DDS",
+      "id": 5
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "hiking Trip",
+      "uerId": 1
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Cotton Chicken",
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "title": "Practical Wooden Towels",
+      "id": 18
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Metal Car",
+      "id": 19
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=59213",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67339",
+      "id": 3
+    }
+  ]
+}
